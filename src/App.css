@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.music-wrapper {
+  background: #d7d8ec;
+  background: linear-gradient(135deg, #d7d8ec, #728971);
+}
